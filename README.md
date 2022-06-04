@@ -15,7 +15,7 @@
             </ul>
         <h2>Especialidades</h2>
             <ul>
-                <li>Developer Front-End</li>
+                <li>DEVELOPER</li>
                 <li>HTML5</li>
                 <li>CSS3</li>
                 <li>JAVA</li>
