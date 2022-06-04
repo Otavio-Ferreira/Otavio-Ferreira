@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá! Eu sou o Otavio!
 
-<!--
-**Otavio-Ferreira/Otavio-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+  <div>
+        <h1>Otavio da Silva Ferreira</h1>
+        <h2>Sobre Mim</h2>
+            <ul>
+                <li>ESCOLA: EEEP DR. NAPOLEÃO NEVES DA LUZ</li>
+                <li>CURSO: TÉCNICO EM INFORMÁTICA (II SEMESTRES)</li>
+                <li>E-MAIL: otavioferreira4343@gmail.com</li>
+            </ul>
+        <h2>Especialidades</h2>
+            <ul>
+                <li>Developer Front-End</li>
+                <li>HTML5</li>
+                <li>CSS3</li>
+                <li>JAVA</li>
+                <li>BOOTSTRAP</li>
+            </ul>
+    </div>
