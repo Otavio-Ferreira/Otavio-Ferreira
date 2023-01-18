@@ -12,7 +12,9 @@
     <a  href="https://www.linkedin.com/in/otavio-ferreira-30580b240/" target="_blank" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"> </a>
     
  
-    <a  href="https://www.instagram.com/_otavioferr" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="40" alt="instagram logo"  /></a>
+    <a href="https://www.instagram.com/_otavioferr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="40" alt="instagram logo"  />
+  </a>
   
 </div>
 
