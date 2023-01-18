@@ -1,24 +1,6 @@
 ### Olá! Eu sou o Otavio!
 
-
-
-
-
-
-  <div>
-        <h1>Otavio da Silva Ferreira</h1>
-        <h2>Sobre Mim</h2>
-            <ul>
-                <li>ESCOLA: EEEP DR. NAPOLEÃO NEVES DA LUZ</li>
-                <li>CURSO: TÉCNICO EM INFORMÁTICA (II SEMESTRES)</li>
-                <li>E-MAIL: otavioferreira4343@gmail.com</li>
-            </ul>
-        <h2>Especialidades</h2>
-            <ul>
-                <li>DEVELOPER</li>
-                <li>HTML5</li>
-                <li>CSS3</li>
-                <li>JAVA</li>
-                <li>BOOTSTRAP</li>
-            </ul>
-    </div>
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio-Ferreira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Ferreira&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
