@@ -9,11 +9,10 @@
 
 ###
 <div align="left">
-  <a href="https://www.linkedin.com/in/otavio-ferreira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo" href="https://www.linkedin.com/in/otavio-ferreira-30580b240/" target="_blank"/>
     
-    <a href="https://www.instagram.com/gustavobarreto.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="40" alt="instagram logo"  />
+ 
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="40" alt="instagram logo"  href="https://www.instagram.com/_otavioferr" />
   </a>
 </div>
 
