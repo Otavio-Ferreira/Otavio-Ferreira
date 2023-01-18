@@ -9,21 +9,21 @@
 
 ###
 <div align="left">
-    <a  href="https://www.linkedin.com/in/otavio-ferreira-30580b240/" target="_blank" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"> </a>
+    <a  href="https://www.linkedin.com/in/otavio-ferreira-30580b240/" target="_blank" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40"           alt="linkedin logo"> 
+    </a>
     
- 
     <a href="https://www.instagram.com/_otavioferr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="40" alt="instagram logo"  />
-  </a>
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="40"         alt="instagram logo">
+    </a>
   
 </div>
-
 
 ###
 <h3 align="left">Linguagens de progamação e ferramentas que tenho experiência:</h3>
 
 ###
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
