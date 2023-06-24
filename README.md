@@ -1,4 +1,4 @@
-<h1 align="left">Olá! Eu sou o Otavio!</h1>
+<h1 align="center">Olá! Eu sou o Otavio!</h1>
 
 <div align="center">
 <img height="160em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Otavio-Ferreira&show-icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -11,6 +11,9 @@
 <div align="left">
     <a  href="https://www.linkedin.com/in/otavio-ferreira-30580b240/" target="_blank" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40"           alt="linkedin logo"> 
+    </a>
+    <a  href="https://mailt:otavioferreira4343@gmail.com" target="_blank" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/email/default.svg" width="56" height="40"           alt="linkedin logo"> 
     </a>
   
 </div>
