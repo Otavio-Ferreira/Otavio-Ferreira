@@ -2,6 +2,7 @@
   <h1>Olá mundo, eu so o Otavio! 👋</h1>
   <p>Desenvolvedor Full-Stack. <br/>Estunte de Ciência da Computação</p>
   <img src="[https://img.shields.io/static/v1?label=Overview&message=Otavio&color=f8efd4&style=for-the-badge&logo=GitHub]" alt="Static GitHub">
+</div>
 
 ## Sobre mim
 
@@ -38,6 +39,5 @@ Se você busca um desenvolvedor comprometido com excelência e inovação, estou
   
 <br/>
 
-## Como entrar em contanto comigo https://www.linkedin.com/in/otavio-ferreira-30580b240/
 [![Linkedin](https://img.shields.io/badge/-Otavio%20Ferreira-blue?style=flat-square&logo=Linkedin&color=000&link=https://www.linkedin.com/in/otavio-ferreira-30580b240)](https://www.linkedin.com/in/otavio-ferreira-30580b240)
 [![Gmail Badge](https://img.shields.io/badge/-otavioferreira4343@email.com-006bed?style=flat-square&logo=Gmail&color=000&link=mailto:otavioferreira4343@gmail.com)](mailto:otavioferreira4343@gmail.com)
