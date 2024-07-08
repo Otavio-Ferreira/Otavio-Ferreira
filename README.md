@@ -1,19 +1,14 @@
 <div align="left">
   <h1>Olá mundo, eu so o Otavio! 👋</h1>
   <p>Desenvolvedor Full-Stack. <br/>Estunte de Ciência da Computação</p>
-  <img src="[https://img.shields.io/static/v1?label=Overview&message=Otavio&color=f8efd4&style=for-the-badge&logo=GitHub](https://github.com/Otavio-Ferreira/Otavio-Ferreira)" alt="Static GitHub">
-</div>
+  <img src="[https://img.shields.io/static/v1?label=Overview&message=Otavio&color=f8efd4&style=for-the-badge&logo=GitHub]" alt="Static GitHub">
 
 ## Sobre mim
 
 ###
-Sou um desenvolvedor full-stack web apaixonado por criar páginas eficientes e dinâmicas. No front-end, domino HTML5, CSS3, JavaScript, jQuery e Bootstrap, proporcionando experiências de usuário excepcionais. No back-end, sou especializado em PHP e no poderoso framework Laravel, garantindo soluções robustas e escaláveis.
+Sou um desenvolvedor full-stack web apaixonado por criar páginas eficientes e dinâmicas. Domino HTML5, CSS3, JavaScript, jQuery e Bootstrap no front-end, e sou especializado em PHP e Laravel no back-end. Minha abordagem orientada a testes garante código de alta qualidade. Tenho vasta experiência com MySQL e SQLite, além de desenvolver sistemas com painéis de controle intuitivos. Tenho experiência como programador full-stack na Sabão Juá - Indústria e Comércio Ltda. Com profundo conhecimento em MVC, sei hospedar sistemas PHP e integrá-los ao GitHub, utilizando Git para controle de versão.
 
-Minha abordagem é orientada a testes, assegurando a qualidade do código e a funcionalidade impecável dos projetos. Tenho vasta experiência com bancos de dados MySQL e SQLite, e sou capaz de desenvolver sistemas completos com painéis de controle intuitivos. Além disso, possuo experiência como programador full-stack na empresa Sabão Jua - Indústria e Comércio Ltda.
-
-Entendo profundamente a estrutura MVC e sei como hospedar sistemas PHP de forma eficiente. A integração de sistemas com GitHub faz parte do meu dia a dia, utilizando Git para um controle de versão impecável.
-
-Se você busca um desenvolvedor comprometido com a excelência e a inovação, estou pronto para transformar suas ideias em realidade!
+Se você busca um desenvolvedor comprometido com excelência e inovação, estou pronto para transformar suas ideias em realidade!
   
 ## Habilidades
 
