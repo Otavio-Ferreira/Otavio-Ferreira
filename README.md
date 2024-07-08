@@ -1,7 +1,7 @@
 <div align="left">
   <h1>Olá mundo, eu so o Otavio! 👋</h1>
-  <p>Desenvolvedor Full-Stack. <br/>Estunte de Ciência da Computação</p>
-  <img src="[https://img.shields.io/static/v1?label=Overview&message=Otavio&color=f8efd4&style=for-the-badge&logo=GitHub]" alt="Static GitHub">
+  <p>Desenvolvedor Full-Stack e Estunte de Ciência da Computação</p>
+  <img src="https://img.shields.io/static/v1?label=Overview&message=Otavio&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </div>
 
 ## Sobre mim
