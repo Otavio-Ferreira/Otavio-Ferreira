@@ -21,28 +21,28 @@ Se você busca um desenvolvedor comprometido com a excelência e a inovação, e
 
 **Tecnologies**
 
-![Static Badge](https://img.shields.io/badge/-HTML5-100000?style=flat&logo=html5&color=%000)
-![Static Badge](https://img.shields.io/badge/-CSS3-100000?style=flat&logo=css3&color=%000)
-![Static Badge](https://img.shields.io/badge/-JavaScript-100000?style=flat&logo=javascript&color=%000)
-![Static Badge](https://img.shields.io/badge/-JQuery-100000?style=flat&logo=jquery&color=%000)
-![Static Badge](https://img.shields.io/badge/-Bootstrap-100000?style=flat&logo=bootstrap&color=%000)
-![Static Badge](https://img.shields.io/badge/-PHP-100000?style=flat&logo=php&color=%000)
-![Static Badge](https://img.shields.io/badge/-Laravel-100000?style=flat&logo=laravel&color=%000)
-![Static Badge](https://img.shields.io/badge/-MySql-100000?style=flat&logo=mysql&color=%000)
-![Static Badge](https://img.shields.io/badge/-Sqlite-100000?style=flat&logo=sqlite&color=%000)
-![Static Badge](https://img.shields.io/badge/-Micropython-100000?style=flat&logo=micropython&color=%000)
+![Static Badge](https://img.shields.io/badge/-HTML5-100000?style=flat&logo=html5&color=000)
+![Static Badge](https://img.shields.io/badge/-CSS3-100000?style=flat&logo=css3&color=000)
+![Static Badge](https://img.shields.io/badge/-JavaScript-100000?style=flat&logo=javascript&color=000)
+![Static Badge](https://img.shields.io/badge/-JQuery-100000?style=flat&logo=jquery&color=000)
+![Static Badge](https://img.shields.io/badge/-Bootstrap-100000?style=flat&logo=bootstrap&color=000)
+![Static Badge](https://img.shields.io/badge/-PHP-100000?style=flat&logo=php&color=000)
+![Static Badge](https://img.shields.io/badge/-Laravel-100000?style=flat&logo=laravel&color=000)
+![Static Badge](https://img.shields.io/badge/-MySql-100000?style=flat&logo=mysql&color=000)
+![Static Badge](https://img.shields.io/badge/-Sqlite-100000?style=flat&logo=sqlite&color=000)
+![Static Badge](https://img.shields.io/badge/-Micropython-100000?style=flat&logo=micropython&color=000)
 
 **Outras**
 
-![Static Badge](https://img.shields.io/badge/-Git-100000?style=flat&logo=gitl&color=%000)
-![Static Badge](https://img.shields.io/badge/-Github-100000?style=flat&logo=github&color=%000)
-![Static Badge](https://img.shields.io/badge/-Figma-100000?style=flat&logo=figma&color=%000)
-![Static Badge](https://img.shields.io/badge/-Insomnia-100000?style=flat&logo=Insomnia&color=%000)
-![Static Badge](https://img.shields.io/badge/-Postman-100000?style=flat&logo=Postman&color=%000)
-![Static Badge](https://img.shields.io/badge/-PhpMyAdmin-100000?style=flat&logo=phpmyadmin&color=%000)
+![Static Badge](https://img.shields.io/badge/-Git-100000?style=flat&logo=gitl&color=000)
+![Static Badge](https://img.shields.io/badge/-Github-100000?style=flat&logo=github&color=000)
+![Static Badge](https://img.shields.io/badge/-Figma-100000?style=flat&logo=figma&color=000)
+![Static Badge](https://img.shields.io/badge/-Insomnia-100000?style=flat&logo=Insomnia&color=000)
+![Static Badge](https://img.shields.io/badge/-Postman-100000?style=flat&logo=Postman&color=000)
+![Static Badge](https://img.shields.io/badge/-PhpMyAdmin-100000?style=flat&logo=phpmyadmin&color=000)
   
 <br/>
 
 ## Como entrar em contanto comigo https://www.linkedin.com/in/otavio-ferreira-30580b240/
-[![Linkedin](https://img.shields.io/badge/-Otavio%20Ferreira-blue?style=flat-square&logo=Linkedin&color=%000&link=https://www.linkedin.com/in/otavio-ferreira-30580b240)](https://www.linkedin.com/in/otavio-ferreira-30580b240)
-[![Gmail Badge](https://img.shields.io/badge/-otavioferreira4343@email.com-006bed?style=flat-square&logo=Gmail&color=%000&link=mailto:otavioferreira4343@gmail.com)](mailto:otavioferreira4343@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Otavio%20Ferreira-blue?style=flat-square&logo=Linkedin&color=000&link=https://www.linkedin.com/in/otavio-ferreira-30580b240)](https://www.linkedin.com/in/otavio-ferreira-30580b240)
+[![Gmail Badge](https://img.shields.io/badge/-otavioferreira4343@email.com-006bed?style=flat-square&logo=Gmail&color=000&link=mailto:otavioferreira4343@gmail.com)](mailto:otavioferreira4343@gmail.com)
