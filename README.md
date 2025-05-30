@@ -43,9 +43,9 @@ Se você busca um desenvolvedor comprometido com excelência e inovação, estou
 
 ## Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio-Ferreira&show_icons=true&theme=great-gatsby&include_all_commits=true&hide_border=false"/>
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Ferreira&layout=compact&langs_count=10&theme=great-gatsby"/>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio-Ferreira&show_icons=true&theme=great-gatsby&include_all_commits=true&hide_border=false"/><span></span>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Ferreira&layout=compact&langs_count=10&theme=great-gatsby"/>
 </p>
 
 <div align="center">
