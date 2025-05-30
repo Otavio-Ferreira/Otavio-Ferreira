@@ -41,3 +41,37 @@ Se você busca um desenvolvedor comprometido com excelência e inovação, estou
 
 [![Linkedin](https://img.shields.io/badge/-Otavio%20Ferreira-blue?style=flat-square&logo=Linkedin&color=000&link=https://www.linkedin.com/in/otavio-ferreira-30580b240)](https://www.linkedin.com/in/otavio-ferreira-30580b240)
 [![Gmail Badge](https://img.shields.io/badge/-otavioferreira4343@email.com-006bed?style=flat-square&logo=Gmail&color=000&link=mailto:otavioferreira4343@gmail.com)](mailto:otavioferreira4343@gmail.com)
+
+### ⚙️ Análise do GitHub
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Otavio-Ferreira&theme=great-gatsby&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Ferreira&layout=compact&langs_count=16&theme=great-gatsby"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h3><b>📍 Contagem de visitantes do perfil</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Otavio-Ferreira/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
