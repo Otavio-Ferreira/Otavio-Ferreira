@@ -34,7 +34,7 @@ Se você busca um desenvolvedor comprometido com excelência e inovação, estou
 ![Static Badge](https://img.shields.io/badge/-Insomnia-100000?style=flat&logo=Insomnia&color=000)
 ![Static Badge](https://img.shields.io/badge/-Postman-100000?style=flat&logo=Postman&color=000)
 ![Static Badge](https://img.shields.io/badge/-PhpMyAdmin-100000?style=flat&logo=phpmyadmin&color=000)
-![Static Badge](https://img.shields.io/badge/-Docker-100000?style=flat&logo=phpmyadmin&color=000)
+![Static Badge](https://img.shields.io/badge/-Docker-100000?style=flat&logo=docker&color=000)
 
 <br/>
 
@@ -48,7 +48,7 @@ Se você busca um desenvolvedor comprometido com excelência e inovação, estou
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Ferreira&layout=compact&langs_count=10&theme=great-gatsby"/>
 </p>
 <div align="center">
-  <h3><b>📍 Contagem de visitantes do perfil</b></h3>
+  <h4><b>Quantidade de visitas ao perfil</b></h4>
 </div>
 
 <p align="center">
